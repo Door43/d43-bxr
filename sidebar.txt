@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxr:home|Door43 (bxr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxr|d43-bxr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxr/archive/master.zip|d43-bxr.zip]]
+
+**Recent Changes**
+{{changes>ns = bxr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxr|Ethnologue data]]
+
